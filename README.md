@@ -1,7 +1,7 @@
-<h1 align="center">✨ HTIC Robotics Imaging Team ✨</h1>
+<h1 align="center">✨ IGRS - Medical Imaging Team ✨</h1>
 
 <p align="center">
-  <b>Imaging</b><br>
+  <br>
   An intersection of medicine and technology that enables non-invasive exploration of internal anatomy. The Medical Image Processing/Computing division leverages advanced computational techniques to enhance medical image analysis, facilitate surgical guidance, and assist clinical decision-making processes.
 </p>
 
@@ -24,22 +24,28 @@
 <h2 align="center">📚 Projects 📚</h2>
 
 <ol>
-  <li>🔬 <b>Intra-operative Registration of Fluoroscopic Images for Open and Minimally Invasive Surgeries</b></li>
-  <li>🏥 <b>Pre-operative 3D Volumetric Data to Intra-op 2D Fluoroscopic Image Registration for Open and Minimally Invasive Surgeries</b></li>
-  <li>🖥️ <b>GUI-based Pedicle Screw Planning on Fluoroscopic Images Utilizing Vertebral Segmentation</b></li>
-  <li>🦴 <b>Identifying and Extracting the Boundaries of Spinal Anatomy from X-rays Using Deep Learning Training Assisted by CT Scans</b></li>
-  <li>📐 <b>Fluoro-CT Spline Registration Utilizing Pose Based Convolutional Neural Network</b></li>
-  <li>🤝 <b>Utilizing Gain Adversarial Networks to Predict Occluded Calibration Fiducials for Improved Image-Guided Precision in 2D-2D Registration via Pose Priors</b></li>
-  <li>⚙️ <b>Adapting Pedicle Screw Placement Tunable Parameters Based on Imaging Quality to Ensure Best Accuracy in Image-Guided Spine Surgery via Constrained Learning Based Optimization</b></li>
-  <li>🔄 <b>3D Ultrasound Reconstruction from 2D Scans</b></li>
+  <li>🔬 <b>Intraoperative Fluoroscopic Registration</b></li>
+  <li>🏥 <b>Multi-modal Image Registration</b></li>
+  <li>🖥️ <b>GUI Based Intra-operative Planning</b></li>
+  <li>🦴 <b>Automatic Vertebrae Segmentation in 2D</b></li>
+  <li>📐 <b>Pose-based Multimodal Spline Registration</b></li>
+  <li>🤝 <b>Improved IGS Precision Techniques</b>
+  <ul>
+    <li>⚙️ <b>GAN based Pose-priors</b></li>
+    <li>🔄 <b>Tunable Parameters Based Image Quality Enhancement</b></li>
+    <li>📝 <b>Optimization of Fiducial Weights For Better Precision</b></li>
+  </ul>
+</li>
+
 </ol>
+
 
 <h2 align="center">📝 Publications 📝</h2>
 
 <ul>
-  <li>📖 <b>Cadaver Study on Pedicle Screw Fixation Using a Collaborative Robot: A Motion Planning Perspective.</b> (Selected for CARS 2024)</li>
-  <li>📖 <b>A Hybrid-Layered System for Image-Guided Navigation and Robot-Assisted Spine Surgeries.</b> In 2024 IEEE/SICE International Symposium on System Integration (SII) (pp. 1452-1457). IEEE.</li>
-  <li>📖 <b>A Novel Spatio2-Frequency Blob Detection Algorithm for Enhancing Precision in Image Guided Surgery, 2024.</b> (Selected for MeMeA)</li>
-  <li>📖 <b>GUI-based Pedicle Screw Planning on Fluoroscopic Images Utilizing Vertebral Segmentation, 2024.</b> (Selected for MeMeA)</li>
-  <li>📖 <b>X-Ray Image Based GUI Planning of Pedicle Screws Using Enhanced YOLOv5 for Vertebrae Segmentation, 2024.</b> (Selected for EMBC)</li>
+  <li>📖 <b>GUI-based Pedicle Screw Planning on Fluoroscopic Images Utilizing Vertebral Segmentation</b> </li>
+  <li>📖 <b>A Novel Spatio-2-Frequency Blob Detection Algorithm for Enhancing Precision in Image Guided Surgery</li>
+  <li>📖 <b>Spine Vision – X-Ray Image based GUI Planning of Pedicle Screws Using Enhanced YOLOv5 for Vertebrae Segmentation</b> (Selected for MeMeA)</li>
+  <li>📖 <b>Enhancing Precision Through Optimization in Image Guided Spine Surgical Procedures  </b> (MICCAI CLIP accepted)</li>
+  <li>📖 <b>SpineStyle: Conceptualizing Style Transfer for Image-Guided Spine Surgery on Radiograph </b> (MICCAI MLMI accepted).</li>
 </ul>
