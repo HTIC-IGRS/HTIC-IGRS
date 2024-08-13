@@ -25,8 +25,9 @@
 
 <ol>
   <li>🔬 <b>Intraoperative Fluoroscopic Registration</b></li>
-  <li>🏥 <b>Multi-modal Image Registration</b></li>
+  <li>🏥 <b><a href="https://github.com/IGRS-medical-imaging/iVRegMulti-modal Image Registration" target="_blank">Multi-modal Image Registration</b></li>
   <li>🖥️ <b><a href="https://github.com/IGRS-medical-imaging/GUI-planning-" target="_blank">GUI Based Intra-operative Planning</b></li>
+  <li>🖥️ <b><a href="https://github.com/IGRS-medical-imaging/Spine-Style" target="_blank">Style Transfer for Image Guided Spine Surgery</b></li>
   <li>🦴 <b>Automatic Vertebrae Segmentation in 2D</b></li>
   <li>📐 <b>Pose-based Multimodal Spline Registration</b></li>
  <li>🤝 <b>Improved IGS Precision Techniques</a></b>
