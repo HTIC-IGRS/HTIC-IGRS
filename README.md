@@ -36,8 +36,6 @@
     <li>📝 <b><a href="https://github.com/IGRS-medical-imaging/EnPrO" target="_blank">Optimization of Fiducial Weights For Better Precision</b></li>
   </ul>
 </li>
-
-
 </ol>
 
 
@@ -46,7 +44,8 @@
 <ul>
   <li>📖 <b>GUI-based Pedicle Screw Planning on Fluoroscopic Images Utilizing Vertebral Segmentation</b> </li>
   <li>📖 <b>A Novel Spatio-2-Frequency Blob Detection Algorithm for Enhancing Precision in Image Guided Surgery</li>
-  <li>📖 <b>Spine Vision – X-Ray Image based GUI Planning of Pedicle Screws Using Enhanced YOLOv5 for Vertebrae Segmentation</b> (Selected for MeMeA)</li>
-  <li>📖 <b>Enhancing Precision Through Optimization in Image Guided Spine Surgical Procedures  </b> (MICCAI CLIP accepted)</li>
-  <li>📖 <b>SpineStyle: Conceptualizing Style Transfer for Image-Guided Spine Surgery on Radiograph </b> (MICCAI MLMI accepted).</li>
+  <li>📖 <b>Spine Vision – X-Ray Image based GUI Planning of Pedicle Screws Using Enhanced YOLOv5 for Vertebrae Segmentation</b> <i>(Selected for MeMeA 🥇)</i></li>
+<li>📖 <b>Enhancing Precision Through Optimization in Image Guided Spine Surgical Procedures</b> <i>(MICCAI CLIP accepted 🥇)</i></li>
+<li>📖 <b>SpineStyle: Conceptualizing Style Transfer for Image-Guided Spine Surgery on Radiograph</b> <i>(MICCAI MLMI accepted 🥇)</i></li>
+
 </ul>
