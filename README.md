@@ -26,16 +26,17 @@
 <ol>
   <li>🔬 <b>Intraoperative Fluoroscopic Registration</b></li>
   <li>🏥 <b>Multi-modal Image Registration</b></li>
-  <li>🖥️ <b>GUI Based Intra-operative Planning</b></li>
+  <li>🖥️ <b><a href="https://github.com/IGRS-medical-imaging/GUI-planning-" target="_blank">GUI Based Intra-operative Planning</b></li>
   <li>🦴 <b>Automatic Vertebrae Segmentation in 2D</b></li>
   <li>📐 <b>Pose-based Multimodal Spline Registration</b></li>
-  <li>🤝 <b>Improved IGS Precision Techniques</b>
+ <li>🤝 <b>Improved IGS Precision Techniques</a></b>
   <ul>
-    <li>⚙️ <b>GAN based Pose-priors</b></li>
+    <li>⚙️ <b><a href="https://github.com/IGRS-medical-imaging/FidGAN" target="_blank">GAN based Pose-priors</b></li>
     <li>🔄 <b>Tunable Parameters Based Image Quality Enhancement</b></li>
-    <li>📝 <b>Optimization of Fiducial Weights For Better Precision</b></li>
+    <li>📝 <b><a href="https://github.com/IGRS-medical-imaging/EnPrO" target="_blank">Optimization of Fiducial Weights For Better Precision</b></li>
   </ul>
 </li>
+
 
 </ol>
 
