@@ -1,8 +1,8 @@
-<h1 align="center">✨ IGRS - Medical Imaging Team ✨</h1>
+<h1 align="center">✨ IGRS - Medical Imaging ✨</h1>
 
 <p align="center">
   <br>
-  An intersection of medicine and technology that enables non-invasive exploration of internal anatomy. The Medical Image Processing/Computing division leverages advanced computational techniques to enhance medical image analysis, facilitate surgical guidance, and assist clinical decision-making processes.
+  An intersection of medicine and technology that enables non-invasive exploration of internal anatomy. The Medical Imaging division leverages advanced computational techniques to enhance medical image analysis, facilitate surgical guidance, and assist clinical decision-making processes.
 </p>
 
 <h2 align="center">🌟 Key Research Focus 🌟</h2>
